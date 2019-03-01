@@ -60,7 +60,7 @@ kubectl create -f .
 Once the rules are created, try to visit the API again and you should be able to successfully unshorten links to `bit.ly` domains only. 
 
 
-### Task 7: Cleanup
+### Task 6: Cleanup
 
 In the `manifests` directory:
 ```
